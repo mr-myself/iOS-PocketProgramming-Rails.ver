@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  RailsPocketProgramming
+
+  Created by keisuke.hoshino on 2015/11/01.
+  Copyright © 2015年 ffab0. All rights reserved.
+*/
+
+"nthDayAndQuestion" = "DAY%1$@/第%2$@問";
+"challengeNthDay" = "DAY%1$dにチャレンジ";
+
+"tweetLevelUp" = "Pocket Programmingで%1$@のレベルが「%2$@」から「%3$@」に上がりました！\n\n#PocketProgramming #Ruby #Rails via @pocket_pro_JP";
+"tweetDayComplete" = "【Pocket Programming】第%1$@週目の%2$@日目を修了！スコアは%3$@点でした！ #Ruby #Rails via @pocket_pro_JP";
+
+"ratingAlertTitle" = "いつも使ってくれてありがとう！";
+"ratingAlertDescription" = "Pocket Programmingのレビューを書いてくれる？";
+"ratingAlertAccceptTitle" = "書いてあげる";
+"ratingAlertNotNowTitle" = "あとにする";
+"correct" = "正解";
+"wrong" = "不正解";
+"nthQuestion" = "第%1$@問";
+"startWeekAgain" = "もう一度WEEK%1$@にチャレンジ";
+"startNextWeek" = "WEEK%1$@にチャレンジ";
+"completedDay" = "DAY%1$@終了！お疲れさま！";
+"whatYouLearned" = "DAY%1$@で学んだこと";
+"toThisWeekSummary" = "今週の結果へ";
+"levelUp" = "%1$@のレベルが";
+"completedAllDays" = "すべての問題を解き終えました";

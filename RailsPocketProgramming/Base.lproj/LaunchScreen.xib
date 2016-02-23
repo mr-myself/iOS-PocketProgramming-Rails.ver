@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9060" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="app_icon" translatesAutoresizingMaskIntoConstraints="NO" id="dyu-it-kCF">
+                    <rect key="frame" x="142" y="303" width="130" height="130"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="130" id="JQf-Oc-G28"/>
+                        <constraint firstAttribute="width" secondItem="dyu-it-kCF" secondAttribute="height" multiplier="15:8" id="W06-qf-KQq"/>
+                        <constraint firstAttribute="width" constant="240" id="mgi-tU-Frc"/>
+                        <constraint firstAttribute="height" constant="128" id="roC-Jc-KDi"/>
+                        <constraint firstAttribute="height" constant="130" id="z2T-2J-hQQ"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="W06-qf-KQq"/>
+                            <exclude reference="mgi-tU-Frc"/>
+                            <exclude reference="roC-Jc-KDi"/>
+                        </mask>
+                    </variation>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="dyu-it-kCF" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="WWD-c6-vDc"/>
+                <constraint firstItem="dyu-it-kCF" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="chp-2V-UiB"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="app_icon" width="480" height="480"/>
+    </resources>
+</document>

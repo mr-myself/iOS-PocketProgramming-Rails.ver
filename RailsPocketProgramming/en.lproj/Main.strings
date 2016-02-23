@@ -1,0 +1,198 @@
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "0FS-DL-wmJ"; */
+"0FS-DL-wmJ.normalTitle" = "Challenge";
+
+/* Class = "UILabel"; text = "DAY1修了！お疲れ様！"; ObjectID = "0r6-4C-ehB"; */
+"0r6-4C-ehB.text" = "DAY has been completed! Good job!";
+
+/* Class = "UIButton"; normalTitle = "WEEK1を解き直す"; ObjectID = "0vk-JC-K2y"; */
+"0vk-JC-K2y.normalTitle" = "Try WEEK again.";
+
+/* Class = "UILabel"; text = "現在のあなたのレベル"; ObjectID = "5qs-Ie-x8k"; */
+"5qs-Ie-x8k.text" = "Your current levels";
+
+/* Class = "UIButton"; normalTitle = "ここに参考サイトのURLが入ります"; ObjectID = "6cr-b5-vR1"; */
+"6cr-b5-vR1.normalTitle" = "";
+
+/* Class = "UILabel"; text = "DAY"; ObjectID = "9QS-lj-8ro"; */
+"9QS-lj-8ro.text" = "DAY";
+
+/* Class = "UILabel"; text = "第1問"; ObjectID = "9o2-ia-pb8"; */
+"9o2-ia-pb8.text" = "";
+
+/* Class = "UIButton"; normalTitle = ">解説文をもう一度見る"; ObjectID = "Arl-Lf-oOs"; */
+"Arl-Lf-oOs.normalTitle" = ">See the explanation.";
+
+/* Class = "UIButton"; normalTitle = "ここに参考サイトのURLが入ります"; ObjectID = "BvR-ho-PcT"; */
+"BvR-ho-PcT.normalTitle" = "";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "C7r-G1-rnP"; */
+"C7r-G1-rnP.text" = "";
+
+/* Class = "UIButton"; normalTitle = "WEEK2を解く"; ObjectID = "DOS-03-Bj0"; */
+"DOS-03-Bj0.normalTitle" = "Try WEEK";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Fmi-Jy-2iP"; */
+"Fmi-Jy-2iP.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Model, View, Controller, Hoge, Huga"; ObjectID = "Lb8-QF-sQK"; */
+"Lb8-QF-sQK.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Model, View, Controller, Hoge, Huga"; ObjectID = "Lox-nC-HAa"; */
+"Lox-nC-HAa.normalTitle" = "";
+
+/* Class = "UILabel"; text = "DAY1/Q1"; ObjectID = "M5f-ZW-fRf"; */
+"M5f-ZW-fRf.text" = "DAY/Q";
+
+/* Class = "UILabel"; text = "ここに解説文が入ります。ここに解説文が入ります。"; ObjectID = "MNg-JH-dkn"; */
+"MNg-JH-dkn.text" = "";
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "Nac-NS-wg0"; */
+"Nac-NS-wg0.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OMY-LY-sQ1"; */
+"OMY-LY-sQ1.normalTitle" = "";
+
+/* Class = "UILabel"; text = "ここにジャンルの名前が入りますが、長文でもちゃんと表示さ"; ObjectID = "OSf-Dc-KkH"; */
+"OSf-Dc-KkH.text" = "";
+
+/* Class = "UIButton"; normalTitle = "ここに参考サイトのURLが入ります"; ObjectID = "OVX-3e-0IH"; */
+"OVX-3e-0IH.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "StringMain, View, Model, Controller"; ObjectID = "Obv-Rr-CJP"; */
+"Obv-Rr-CJP.normalTitle" = "";
+
+/* Class = "UILabel"; text = "解説"; ObjectID = "Ojf-Ge-hcm"; */
+"Ojf-Ge-hcm.text" = "Explanation";
+
+/* Class = "UITabBarItem"; title = "問題"; ObjectID = "PAl-dE-H30"; */
+"PAl-dE-H30.title" = "Question";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PWW-gB-7eh"; */
+"PWW-gB-7eh.normalTitle" = "";
+
+/* Class = "UITabBarItem"; title = "問題"; ObjectID = "Qeo-yD-cne"; */
+"Qeo-yD-cne.title" = "Question";
+
+/* Class = "UIButton"; normalTitle = "ここに参考サイトのURLが入ります"; ObjectID = "RPv-gS-B3a"; */
+"RPv-gS-B3a.normalTitle" = "";
+
+/* Class = "UILabel"; text = "学習進度"; ObjectID = "SJc-bJ-JT5"; */
+"SJc-bJ-JT5.text" = "Progress in learning";
+
+/* Class = "UIButton"; normalTitle = "redirect_to root_path, notice: 'sucess!'"; ObjectID = "SPU-qf-QHa"; */
+"SPU-qf-QHa.normalTitle" = "";
+
+/* Class = "UILabel"; text = "DAY1で学んだこと"; ObjectID = "TKX-IU-loh"; */
+"TKX-IU-loh.text" = "What you've learned in the DAY";
+
+/* Class = "UITabBarItem"; title = "まとめ"; ObjectID = "UJI-1E-TVm"; */
+"UJI-1E-TVm.title" = "Summary";
+
+/* Class = "UIButton"; normalTitle = "シェアする"; ObjectID = "VMn-bV-JH5"; */
+"VMn-bV-JH5.normalTitle" = "Share";
+
+/* Class = "UILabel"; text = "ジャンルタイトル"; ObjectID = "WbB-iB-bWn"; */
+"WbB-iB-bWn.text" = "Genre";
+
+/* Class = "UITabBarItem"; title = "復習"; ObjectID = "X05-Vv-Fuw"; */
+"X05-Vv-Fuw.title" = "Review";
+
+/* Class = "UITabBarItem"; title = "まとめ"; ObjectID = "XzN-Z9-9Qi"; */
+"XzN-Z9-9Qi.title" = "Summary";
+
+/* Class = "UIButton"; normalTitle = "Go next"; ObjectID = "Yth-vp-QLh"; */
+"Yth-vp-QLh.normalTitle" = "Next question";
+
+/* Class = "UITabBarItem"; title = "問題"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Question";
+
+/* Class = "UITextView"; text = "インターネットに接続されていません。接続状況を確認してください。"; ObjectID = "azA-rF-sj8"; */
+"azA-rF-sj8.text" = "No network found.\n Check your internet environment, please.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bTf-Ip-Igd"; */
+"bTf-Ip-Igd.normalTitle" = "";
+
+/* Class = "UITabBarItem"; title = "復習"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Review";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "cvp-Mn-t9a"; */
+"cvp-Mn-t9a.title" = "";
+
+/* Class = "UIButton"; normalTitle = "再チャレンジ"; ObjectID = "d5i-fJ-Cgd"; */
+"d5i-fJ-Cgd.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "WEEK"; ObjectID = "e1a-Ya-h8L"; */
+"e1a-Ya-h8L.text" = "WEEK";
+
+/* Class = "UIButton"; normalTitle = "Show answer"; ObjectID = "fzU-ap-tb2"; */
+"fzU-ap-tb2.normalTitle" = "Show answer";
+
+/* Class = "UILabel"; text = "Explanation"; ObjectID = "g0p-SL-kuk"; */
+"g0p-SL-kuk.text" = "Explanation";
+
+/* Class = "UITabBarItem"; title = "まとめ"; ObjectID = "gMq-WA-LhI"; */
+"gMq-WA-LhI.title" = "Summary";
+
+/* Class = "UILabel"; text = "答え"; ObjectID = "gZk-96-gwy"; */
+"gZk-96-gwy.text" = "Answer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gyK-Aw-vbS"; */
+"gyK-Aw-vbS.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "ここに参考サイトのURLが入ります"; ObjectID = "hOW-h9-Hls"; */
+"hOW-h9-Hls.normalTitle" = "";
+
+/* Class = "UITabBarItem"; title = "まとめ"; ObjectID = "ioE-f7-VeX"; */
+"ioE-f7-VeX.title" = "Summary";
+
+/* Class = "UITextView"; text = "テキスト"; ObjectID = "irJ-1F-o5r"; */
+"irJ-1F-o5r.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "itk-ro-ZYo"; */
+"itk-ro-ZYo.text" = "";
+
+/* Class = "UILabel"; text = "Q1"; ObjectID = "k1d-kc-f3x"; */
+"k1d-kc-f3x.text" = "Q";
+
+/* Class = "UIButton"; normalTitle = "再チャレンジ"; ObjectID = "kWT-pU-amw"; */
+"kWT-pU-amw.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "ここに答えが入ります。"; ObjectID = "nE3-on-5mD"; */
+"nE3-on-5mD.text" = "";
+
+/* Class = "UITabBarItem"; title = "復習"; ObjectID = "oKH-d3-xPs"; */
+"oKH-d3-xPs.title" = "Review";
+
+/* Class = "UIButton"; normalTitle = "シェアする"; ObjectID = "p8G-M4-akk"; */
+"p8G-M4-akk.normalTitle" = "Share";
+
+/* Class = "UITabBarItem"; title = "復習"; ObjectID = "pNX-bV-MRG"; */
+"pNX-bV-MRG.title" = "Review";
+
+/* Class = "UITextView"; text = "テキスト"; ObjectID = "pwS-Oq-IWo"; */
+"pwS-Oq-IWo.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "rui-4W-d0d"; */
+"rui-4W-d0d.normalTitle" = "Challenge";
+
+/* Class = "UILabel"; text = "ここに問題文が入ります。ここに問題文が入ります。ここに問題文が入ります。ここに問題文が入ります。"; ObjectID = "svY-4j-N9P"; */
+"svY-4j-N9P.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Model, View, Controller, Hoge, Huga"; ObjectID = "uZB-Or-Ami"; */
+"uZB-Or-Ami.normalTitle" = "";
+
+/* Class = "UITextView"; text = "テキスト"; ObjectID = "v1O-Pe-gaK"; */
+"v1O-Pe-gaK.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Model, View, Controller, Hoge, Huga"; ObjectID = "vPu-lG-ZDt"; */
+"vPu-lG-ZDt.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "ここに参考サイトのURLが入ります"; ObjectID = "vak-5g-udB"; */
+"vak-5g-udB.normalTitle" = "";
+
+/* Class = "UITabBarItem"; title = "問題"; ObjectID = "xjl-db-tZz"; */
+"xjl-db-tZz.title" = "Question";
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "zSN-lk-avZ"; */
+"zSN-lk-avZ.normalTitle" = "Challenge";

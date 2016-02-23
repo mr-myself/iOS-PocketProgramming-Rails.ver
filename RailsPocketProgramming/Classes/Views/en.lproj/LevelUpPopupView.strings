@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Rubyのレベルが"; ObjectID = "Ixo-Ox-GxI"; */
+"Ixo-Ox-GxI.text" = "Your level is...";
+
+/* Class = "UIButton"; normalTitle = "Twitterでシェアしよう"; ObjectID = "Ytc-n5-Jgk"; */
+"Ytc-n5-Jgk.normalTitle" = "Let's share on Twitter";
+
+/* Class = "UILabel"; text = "にレベルアップしました！"; ObjectID = "x4Y-fL-d8E"; */
+"x4Y-fL-d8E.text" = "Congratulations!";

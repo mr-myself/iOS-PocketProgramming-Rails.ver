@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (3.1.0)
+  - BubbleTransition (1.0.1)
+  - Google/Analytics (1.0.7):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (1.0.7):
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.0)
+  - GoogleAnalytics (3.14.0)
+  - GoogleNetworkingUtilities (1.0.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.0.3)
+  - GoogleUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0.0)
+  - Spring (1.0.3)
+  - SwiftyJSON (2.3.1)
+  - UIColor_Hex_Swift (1.5)
+  - WYInteractiveTransitions (0.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - BubbleTransition (~> 1.0.0)
+  - Google/Analytics (~> 1.0.0)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - UIColor_Hex_Swift (~> 1.5)
+  - WYInteractiveTransitions
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+  SwiftyJSON:
+    :commit: ece271ab33839d11c2153d71fb59c53545132cf9
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 415bd7f56197722978759078486689f7ef913dce
+  BubbleTransition: 76d5e306dbda0f622260ea7d082c971d976422ab
+  Google: 875f5a8ade86dd02e36586e4a54814843938c7f6
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleNetworkingUtilities: 292992ab31b7b4ba32809a0e8b40e324cdfb2c0c
+  GoogleSymbolUtilities: 82ad9f93d3615244b3f4ce440f5ab2515e8b4f56
+  GoogleUtilities: 8ed9134debe11719097881711464752900668f10
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+  UIColor_Hex_Swift: 09997d02e9ba2833569fd048663fddbe90cf2c52
+  WYInteractiveTransitions: ddf464521ca4534a9d47b74f29e6e0ff561c126d
+
+COCOAPODS: 0.39.0

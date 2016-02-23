@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  RailsPocketProgramming
+
+  Created by keisuke.hoshino on 2015/11/01.
+  Copyright © 2015年 ffab0. All rights reserved.
+*/
+
+"nthDayAndQuestion" = "DAY%1$@/Q%2$@";
+"challengeNthDay" = "Let\'s start DAY%1$d";
+
+"tweetLevelUp" = "My %1$@ level has been improved from \"%2$@\" to \"%3$@\"!\n\n#PocketProgramming #Ruby #Rails via @pocket_pro";
+"tweetDayComplete" = "[Pocket Programming] I\'ve completed DAY %2$@ in WEEK %1$@! The score is %3$@. #Ruby #Rails via @pocket_pro";
+
+"ratingAlertTitle" = "Love using Pocket Programming?";
+"ratingAlertDescription" = "If you enjoy Pocket Programming, would you ming taking a moment to rate it?\n\nThanks for your support!";
+"ratingAlertAccceptTitle" = "Rate It Now";
+"ratingAlertNotNowTitle" = "No, Thanks";
+"correct" = "correct";
+"wrong" = "wrong";
+"nthQuestion" = "Q%1$@";
+"startWeekAgain" = "Try week%1$@ again.";
+"startNextWeek" = "Let's try week%1$@.";
+"completedDay" = "DAY%1$@ has been completed! Good job!";
+"whatYouLearned" = "What you\'ve learned in DAY%1$@";
+"toThisWeekSummary" = "Summary of this week";
+"levelUp" = "Your %1$@ level is ...";
+"completedAllDays" = "You've completed All.";

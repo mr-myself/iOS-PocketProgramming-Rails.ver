@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8540C80B184349FCF5EA96C4E37B488748F784DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8540C80B184349FCF5EA96C4E37B488748F784DA" : 0,
+    "7FB8AA1C27A7B27164E90631A17A6ADE04A15627" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A84DD670-CB0A-4039-94F5-83637B4DC2B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8540C80B184349FCF5EA96C4E37B488748F784DA" : "ios-railspocketprogramming\/",
+    "7FB8AA1C27A7B27164E90631A17A6ADE04A15627" : "..\/Downloads\/animated-tab-bar"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RailsPocketProgramming",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RailsPocketProgramming.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ramotion\/animated-tab-bar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FB8AA1C27A7B27164E90631A17A6ADE04A15627"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:ffab0\/ios-railspocketprogramming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8540C80B184349FCF5EA96C4E37B488748F784DA"
+    }
+  ]
+}
